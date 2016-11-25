@@ -1,2 +1,2 @@
-FROM gcr.io/tensorflow-serving/inception
+FROM gcr.io/tensorflow-serving/inception:latest
 MAINTAINER mochin
